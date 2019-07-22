@@ -1,0 +1,18 @@
+Prerequistes: 
+
+1.Make sure Python as well as Django is installed.
+python 3.7.2 
+django  2.2.3
+The above versions were used in production.
+
+2.BeautifulSoup is requried for parsing.
+
+pip install beautifulsoup4 
+
+3.lxml parsing library is required.
+
+pip install lxml
+
+4.selenium
+
+pip install selenium 
